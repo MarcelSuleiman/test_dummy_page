@@ -1,4 +1,4 @@
-# Vitajte na mojej prvej testovanec GitHub page
+# Vitajte na mojej prvej testovacej GitHub page
 
 ## Veci ktorým sa venujem
  - aktivita 1
